@@ -1,0 +1,6 @@
+{
+  "name": "EN Deneyim Merkezi Van — Keşfet, Deneyimle, Öğren!",
+  "description": "EN Deneyim Merkezi Van şubesi: Yeni nesil kütüphane, EN Box, EN Hall, Gölge Koçluk, 4 kişilik VIP sınıflar, Türkiye geneli EN Deneme Kulübü ve ÜçDörtBeş All Star ile YKS/LGS hazırlık deneyimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
